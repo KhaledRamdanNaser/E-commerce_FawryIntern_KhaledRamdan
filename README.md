@@ -17,6 +17,11 @@ This is a Java console-based e-commerce cart simulation developed for the **Fawr
 - Java 8+
 - Java Time API (`java.time.LocalDate`)
 - Console-based input/output
+- ## ScreenShots
+  [Screenshot (380)](https://github.com/user-attachments/assets/48282315-5dfc-454a-b8e3-0a79932e5193)
+  [Screenshot (381)](https://github.com/user-attachments/assets/e1a6163b-62e3-4f50-b660-4f1dfed09d5d)
+  [Screenshot (382)](https://github.com/user-attachments/assets/b9f9ec7a-16b9-4da4-a55f-4f68b558b445)
+  [Screenshot (383)](https://github.com/user-attachments/assets/b7f5b2c1-1fcf-42cf-b035-8ebe90d5f4ee)
 
 ## 📦 Usage
 Compile and run the main class to simulate customer interaction with the cart system.
